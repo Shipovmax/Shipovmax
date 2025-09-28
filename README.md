@@ -4,6 +4,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shipovmax&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shipovmax&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ###
 
 <br clear="both">
