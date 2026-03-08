@@ -16,6 +16,6 @@ INI      0 secs                ░░░░░░░░░░░░░░░░�
 
 <p align="left">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31a5oyq5dhqdr74sn5noomqk5uhe&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31a5oyq5dhqdr74sn5noomqk5uhe&cover_image=true&theme=natemoo-re&show_offline=true&bar_color_cover=true" alt="Spotify" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31a5oyq5dhqdr74sn5noomqk5uhe&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color_cover=true" alt="Spotify" />
   </a>
 </p>
