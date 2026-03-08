@@ -13,4 +13,9 @@ INI      0 secs                ░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31a5oyq5dhqdr74sn5noomqk5uhe&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31a5oyq5dhqdr74sn5noomqk5uhe&redirect=true)
+
+<p align="left">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31a5oyq5dhqdr74sn5noomqk5uhe&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31a5oyq5dhqdr74sn5noomqk5uhe&cover_image=true&theme=natemoo-re&show_offline=true&bar_color_cover=true" alt="Spotify" />
+  </a>
+</p>
