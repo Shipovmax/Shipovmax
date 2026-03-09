@@ -1,14 +1,8 @@
-<!--START_SECTION:waka-->
-
-```txt
-From: 07 March 2026 - To: 08 March 2026
-
-Python   11 mins               ███████████████████▒░░░░░   77.76 %
-SQL      3 mins                █████▓░░░░░░░░░░░░░░░░░░░   22.20 %
-INI      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-```
-
-<!--END_SECTION:waka-->
+<p align="left">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31a5oyq5dhqdr74sn5noomqk5uhe&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31a5oyq5dhqdr74sn5noomqk5uhe&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color_cover=true" alt="Spotify" />
+  </a>
+</p>
 
 <div align="left">
   <a href="https://t.me/shipovm">
@@ -20,11 +14,18 @@ INI      0 secs                ░░░░░░░░░░░░░░░░�
 </div>
 <br>
 
-<p align="left">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31a5oyq5dhqdr74sn5noomqk5uhe&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31a5oyq5dhqdr74sn5noomqk5uhe&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color_cover=true" alt="Spotify" />
-  </a>
-</p>
+
+<!--START_SECTION:waka-->
+
+```txt
+From: 07 March 2026 - To: 08 March 2026
+
+Python   11 mins               ███████████████████▒░░░░░   77.76 %
+SQL      3 mins                █████▓░░░░░░░░░░░░░░░░░░░   22.20 %
+INI      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+```
+
+<!--END_SECTION:waka-->
 
 
 
