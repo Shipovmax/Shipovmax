@@ -4,6 +4,16 @@
   </a>
 </p>
 
+<div align="left">
+  <a href="https://t.me/shipovm">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="mailto:shipov.max@icloud.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" />
+  </a>
+</div>
+<br>
+
 <!--START_SECTION:waka-->
 
 ```txt
