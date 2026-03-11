@@ -2,9 +2,9 @@ name: Waka Readme
 
 on:
   schedule:
-    # Обновляется каждый день в 00:00
-    - cron: '0 0 * * *'
-  workflow_dispatch: # Позволяет запускать вручную
+    # 05:00 UTC — это ровно 08:00 по МСК
+    - cron: '0 5 * * *'
+  workflow_dispatch: # Оставляем для ручного запуска
 
 jobs:
   update-readme:
@@ -14,9 +14,9 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }} # ЭТОГО НЕ ХВАТАЛО
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SHOW_TITLE: true
-          BLOCKS: ░▒▓█ # Нужно минимум 2 символа для градиента
+          BLOCKS: ░▒▓█
           TIME_RANGE: all_time
           LANG_COUNT: 5
           SHOW_TIME: true
