@@ -38,22 +38,6 @@ I’m a Python developer and computer science student at the **Financial Univers
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
------
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shipovmax&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shipovmax&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Shipovmax&theme=github-dark-blue&hide_border=true)
-
-</div>
 
 -----
 
