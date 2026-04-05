@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 Python backend developer focused on building practical tools, APIs, and data pipelines.
 
@@ -22,7 +22,7 @@ Python backend developer focused on building practical tools, APIs, and data pip
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -46,7 +46,7 @@ Python backend developer focused on building practical tools, APIs, and data pip
 
 ---
 
-## 🛠️ What I Build
+## What I Build
 
 - CLI tools for automation
 - REST APIs (FastAPI / Django)
@@ -56,7 +56,7 @@ Python backend developer focused on building practical tools, APIs, and data pip
 
 ---
 
-## 📈 Currently Learning
+## Currently Learning
 
 - System Design (scalability, load balancing, caching)
 - Advanced SQL & query optimization
@@ -64,7 +64,7 @@ Python backend developer focused on building practical tools, APIs, and data pip
 
 ---
 
-## 🎧 Listening Now
+## Listening Now
 
 <div align="center">
 
