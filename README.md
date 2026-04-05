@@ -2,47 +2,69 @@
 
 # Maxim Shipov
 
-**Python Developer · Data Engineering · Financial University, Moscow**
+**Python Developer · Backend & Data Engineering**
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tethe3)
 [![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=icloud&logoColor=white)](mailto:shipov.max@icloud.com)
 
 </div>
 
------
+---
 
-## About Me
+## 🚀 About Me
 
-I’m a Python developer and computer science student at the **Financial University under the Government of the Russian Federation** in Moscow. I focus on building automation tools, data processing pipelines, and CLI utilities.
+Python backend developer focused on building practical tools, APIs, and data pipelines.
 
-- 🎓 Studying algorithms and data structures (AiSD)
-- 🛠️ Building tools that make everyday workflows faster
-- 📊 Interested in data analysis and applied Python
-- 📍 Based in Moscow, Russia
+- 🎓 Computer Science student at Financial University (Moscow)
+- ⚙️ Interested in backend architecture and high-load systems
+- 📊 Working with data processing and automation
+- 🧠 Currently improving algorithms & system design skills
 
------
+---
 
-## Tech Stack
+## 🧰 Tech Stack
 
-**Languages**
-
+### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-**Libraries & Tools**
-
+### Backend & Data
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
+### Tools
+![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
------
+---
 
-## Listening Now
+## 🛠️ What I Build
+
+- CLI tools for automation
+- REST APIs (FastAPI / Django)
+- Data processing pipelines
+- Telegram bots with external integrations
+- Backend services for pet-projects
+
+---
+
+## 📈 Currently Learning
+
+- System Design (scalability, load balancing, caching)
+- Advanced SQL & query optimization
+- Go / Rust (for performance-critical services)
+
+---
+
+## 🎧 Listening Now
 
 <div align="center">
 
