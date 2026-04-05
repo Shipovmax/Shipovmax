@@ -2,26 +2,47 @@
 
 # Maxim Shipov
 
-**Python Backend Developer**
+**Python Developer · Data Engineering · Financial University, Moscow**
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/tethe3)
-[![Email](https://img.shields.io/badge/Email-333333?style=flat&logo=icloud&logoColor=white)](mailto:shipov.max@icloud.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tethe3)
+[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=icloud&logoColor=white)](mailto:shipov.max@icloud.com)
 
 </div>
 
----
+-----
 
-## Tech
+## About Me
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-009688?style=flat&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-0db7ed?style=flat&logo=docker&logoColor=white)
+I’m a Python developer and computer science student at the **Financial University under the Government of the Russian Federation** in Moscow. I focus on building automation tools, data processing pipelines, and CLI utilities.
 
----
+- 🎓 Studying algorithms and data structures (AiSD)
+- 🛠️ Building tools that make everyday workflows faster
+- 📊 Interested in data analysis and applied Python
+- 📍 Based in Moscow, Russia
 
-## 🎧
+-----
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+**Libraries & Tools**
+
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+
+-----
+
+## Listening Now
 
 <div align="center">
 
