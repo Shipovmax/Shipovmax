@@ -79,7 +79,7 @@ Backend APIs and services built with **FastAPI** and **Django**.
 
 ## GitHub Stats
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shipovmax&theme=github)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shipovmax&theme=github)  ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shipovmax&theme=github)
 
 -----
 
