@@ -82,7 +82,7 @@ Backend APIs and services built with **FastAPI** and **Django**.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shipovmax&layout=pie&theme=default&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shipovmax&layout=compact&langs_count=8&theme=default&hide_border=true"/>
 
 </div>
 
