@@ -81,9 +81,9 @@ Backend APIs and services built with **FastAPI** and **Django**.
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tethe3&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shipovmax&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tethe3&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHipovmax&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -91,7 +91,7 @@ Backend APIs and services built with **FastAPI** and **Django**.
 
 ## Activity Graph
 
-[![Maxim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tethe3&theme=tokyo-night&hide_border=true)](https://github.com/tethe3)
+[![Maxim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tethe3&theme=tokyo-night&hide_border=true)](https://github.com/Shipovmax)
 
 -----
 
