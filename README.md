@@ -80,11 +80,9 @@ Backend APIs and services built with **FastAPI** and **Django**.
 
 ## Top Languages
 
-<div align="center">
+## Top Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shipovmax&layout=compact&langs_count=8&theme=default&hide_border=true"/>
-
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shipovmax&theme=github"/>
 
 -----
 
