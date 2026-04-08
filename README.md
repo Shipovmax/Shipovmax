@@ -77,15 +77,6 @@ Backend APIs and services built with **FastAPI** and **Django**.
 
 -----
 
-
-## Top Languages
-
-## Top Languages
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shipovmax&theme=github"/>
-
------
-
 ## Activity Graph
 
 [![Maxim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shipovmax&theme=github-light&hide_border=true)](https://github.com/Shipovmax)
