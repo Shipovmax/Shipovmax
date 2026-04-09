@@ -8,7 +8,7 @@ Building backend systems, APIs and automation tools.
 
 Financial University under the Government of the Russian Federation · Moscow
 
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tethe3)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shipovm)
 [![Email](https://img.shields.io/badge/Email-shipov.max@icloud.com-333333?style=for-the-badge&logo=icloud&logoColor=white)](mailto:shipov.max@icloud.com)
 
 </div>
