@@ -28,7 +28,7 @@ I focus on building backend services, automation tools and data pipelines.
 - 📊 Working with data processing and applied Python
 - 📍 Based in Moscow, Russia
 
-## Tech Stack
+-----
 
 ## Tech Stack
 
@@ -105,7 +105,8 @@ I focus on building backend services, automation tools and data pipelines.
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
 </a>
 </p>
-## Featured Projects
+
+-----
 
 ### Automation CLI Tools
 Collection of command line utilities that automate daily workflows and repetitive tasks.
