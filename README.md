@@ -41,9 +41,6 @@ I focus on building backend services, automation tools and data pipelines.
 <a href="https://go.dev">
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
 </a>
-<a href="https://www.oracle.com/java">
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
 </a>
