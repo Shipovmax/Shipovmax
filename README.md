@@ -118,7 +118,7 @@ Backend APIs and services built with **FastAPI** and **Django**.
 
 ## Activity Graph
 
-[![Maxim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shipovmax&theme=github-dark&hide_border=true)](https://github.com/Shipovmax)
+[![Maxim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shipovmax&theme=minimal&hide_border=true)](https://github.com/Shipovmax)
 
 -----
 
