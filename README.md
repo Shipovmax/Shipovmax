@@ -105,6 +105,8 @@ I focus on building backend services, automation tools and data pipelines.
 
 -----
 
+## Projects
+
 ### Automation CLI Tools
 Collection of command line utilities that automate daily workflows and repetitive tasks.
 
@@ -118,13 +120,14 @@ Backend APIs and services built with **FastAPI** and **Django**.
 
 ## Activity Graph
 
-[![Maxim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shipovmax&theme=github-dark&hide_border=true)](https://github.com/Shipovmax)
+[![Maxim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shipovmax&theme=github-light&hide_border=true)](https://github.com/Shipovmax)
+
 -----
 
 ## Listening Now
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31a5oyq5dhqdr74sn5noomqk5uhe&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31a5oyq5dhqdr74sn5noomqk5uhe&redirect=true)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31a5oyq5dhqdr74sn5noomqk5uhe&cover_image=true&theme=mct&show_offline=true&background_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31a5oyq5dhqdr74sn5noomqk5uhe&redirect=true)
 
 </div>
