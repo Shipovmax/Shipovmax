@@ -128,6 +128,6 @@ Backend APIs and services built with **FastAPI** and **Django**.
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31a5oyq5dhqdr74sn5noomqk5uhe&cover_image=true&theme=mct&show_offline=true&background_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31a5oyq5dhqdr74sn5noomqk5uhe&redirect=true)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31a5oyq5dhqdr74sn5noomqk5uhe&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31a5oyq5dhqdr74sn5noomqk5uhe&redirect=true)
 
 </div>
