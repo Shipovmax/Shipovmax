@@ -21,16 +21,16 @@ Currently: 8-project Go roadmap + arkhe SaaS.<br>
 
 ## Stack
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Languages** &nbsp;
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+&nbsp;&nbsp;**Databases** &nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+&nbsp;&nbsp;**Infra** &nbsp;
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 <br>
 
@@ -47,17 +47,5 @@ Currently: 8-project Go roadmap + arkhe SaaS.<br>
 | 4.5 | [todo](https://github.com/Shipovmax/todo) | Vanilla JS SPA, fetch API, zero dependencies |
 | 5 | [worker-pool](https://github.com/Shipovmax/worker-pool) | goroutines, channels, fan-out/in, graceful shutdown |
 | 6–8 | in progress | — |
-
-<br>
-
----
-
-## Projects
-
-| Project | Stack | Description |
-|:---:|:---:|:---|
-| [arkhe](https://github.com/Shipovmax/arkhe) | Go · PostgreSQL · JWT | SaaS: gamified habit tracker |
-| [DevMatch](https://github.com/Shipovmax/DevMatch) | Django · PostgreSQL · Docker | Teammate finder, AJAX autocomplete |
-| [parser_ozon](https://github.com/Shipovmax/parser_ozon) | Python | Dynamic price scraper, anonymous session |
 
 </div>
