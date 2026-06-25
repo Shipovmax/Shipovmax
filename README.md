@@ -2,7 +2,7 @@
 
 # Maxim Shipov
 
-### Python Backend Developer
+### Python/Go Backend Developer
 
 Building backend systems, APIs and automation tools.
 
