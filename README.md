@@ -7,7 +7,7 @@
 Financial University · Moscow · 2nd year
 
 [![Telegram](https://img.shields.io/badge/Telegram-@shipovm-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/shipovm)
-[![Email](https://img.shields.io/badge/shipov.max@icloud.com-black?style=flat-square&logo=apple&logoColor=white)](mailto:shipov.max@icloud.com)
+[![Email](https://img.shields.io/badge/shipov.max@icloud.com-black?style=flat-square&logo=apple&logoColor=white)](mailto:253585@edu.fa.ru)
 
 <br>
 
