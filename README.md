@@ -8,6 +8,7 @@ Financial University · Moscow · 2nd year
 
 [![Telegram](https://img.shields.io/badge/Telegram-@shipovm-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/shipovm)
 [![Email](https://img.shields.io/badge/shipov.max@icloud.com-black?style=flat-square&logo=apple&logoColor=white)](mailto:253585@edu.fa.ru)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maxim_Shipov-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksimshipov)
 
 <br>
 
@@ -20,6 +21,7 @@ Currently: 8-project Go roadmap + arkhe SaaS.<br>
 ---
 
 ## Stack
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -27,6 +29,7 @@ Currently: 8-project Go roadmap + arkhe SaaS.<br>
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
 <br>
 
 ---
