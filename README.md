@@ -17,7 +17,7 @@ Focused on Clean Architecture, database optimization, and fault tolerance.<br>
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
