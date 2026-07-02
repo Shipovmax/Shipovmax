@@ -6,6 +6,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-@shipovm-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/shipovm)
 [![Email](https://img.shields.io/badge/Email-mshipov.dev-black?style=flat-square&logo=gmail&logoColor=white)](mailto:mshipov.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maxim_Shipov-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksimshipov)
+[![LeetCode](https://img.shields.io/badge/LeetCode-shipov-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/shipov/)
 
 <br>
 
@@ -17,7 +18,7 @@ Focused on Clean Architecture, database optimization, and fault tolerance.<br>
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
