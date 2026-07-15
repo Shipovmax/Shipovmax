@@ -6,7 +6,3 @@
 </a>
 
 <div align="center">
-
-Isolation
-
-</div>
