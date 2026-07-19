@@ -2,9 +2,9 @@ name: Waka Readme
 
 on:
   schedule:
-    # 05:00 UTC — это ровно 08:00 по МСК
+    # 05:00 UTC — 08:00 Moscow time
     - cron: '0 5 * * *'
-  workflow_dispatch: # Оставляем для ручного запуска
+  workflow_dispatch: # allows manual triggering
 
 jobs:
   update-readme:
