@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=110&section=header&text=MAXIM%20SHIPOV&fontSize=38&fontColor=58A6FF&fontAlignY=42&desc=backend%20developer%20%C2%B7%20python%20%2F%20go&descSize=14&descAlignY=68&animation=fadeIn" width="70%" />
+  <img src="https://raw.githubusercontent.com/Shipovmax/Shipovmax/main/assets/header.svg" width="88%" alt="Maxim Shipov — backend developer" />
 </p>
 
 <p align="center">
