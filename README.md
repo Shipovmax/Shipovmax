@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=58A6FF&height=150&section=header&text=MAXIM%20SHIPOV&fontSize=52&fontColor=58A6FF&fontAlignY=40&desc=backend%20engineer%20%C2%B7%20python%20%2F%20go&descSize=16&descAlignY=63&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=MAXIM%20SHIPOV&fontSize=52&fontColor=58A6FF&fontAlignY=40&desc=backend%20developer%20%C2%B7%20python%20%2F%20go&descSize=16&descAlignY=63&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3800&pause=1200&color=8B949E&center=true&vCenter=true&width=560&lines=rest+apis+with+fastapi+%26+django;concurrency+and+clean+architecture+in+go;2nd-year+software+engineering+student" alt="" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3800&pause=1200&color=8B949E&center=true&vCenter=true&width=560&lines=rest+apis+with+fastapi+%26+django;learning+concurrency+and+clean+architecture+in+go;2nd-year+software+engineering+student" alt="" />
 </p>
 
 <p align="center">
@@ -36,57 +36,43 @@ location:    moscow · open to remote
 
 ### `02` &nbsp;Stack
 
-<table>
-<tr>
-<td><b>languages</b></td>
-<td>
+`languages` &nbsp;
 <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=58A6FF&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=58A6FF&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=58A6FF&labelColor=0D1117" />
-</td>
-</tr>
-<tr>
-<td><b>frameworks</b></td>
-<td>
+
+`frameworks` &nbsp;
 <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=58A6FF&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Django-0D1117?style=flat-square&logo=django&logoColor=58A6FF&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/gRPC-0D1117?style=flat-square&logo=grpc&logoColor=58A6FF&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/pytest-0D1117?style=flat-square&logo=pytest&logoColor=58A6FF&labelColor=0D1117" />
-</td>
-</tr>
-<tr>
-<td><b>data</b></td>
-<td>
+
+`data` &nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=58A6FF&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=58A6FF&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/SQLAlchemy-0D1117?style=flat-square&logo=sqlalchemy&logoColor=58A6FF&labelColor=0D1117" />
-</td>
-</tr>
-<tr>
-<td><b>infra</b></td>
-<td>
+
+`infra` &nbsp;
 <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=58A6FF&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=58A6FF&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Nginx-0D1117?style=flat-square&logo=nginx&logoColor=58A6FF&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=58A6FF&labelColor=0D1117" />
-</td>
-</tr>
-</table>
 
 <br />
 
-
-
-### `03` &nbsp;Numbers
+### `03` &nbsp;Activity
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Shipovmax?style=flat-square&logo=github&logoColor=58A6FF&labelColor=0D1117&color=0D1117&label=followers" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/Shipovmax?style=flat-square&logo=github&logoColor=58A6FF&labelColor=0D1117&color=0D1117&label=stars" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FShipovmax&query=%24.public_repos&style=flat-square&logo=github&logoColor=58A6FF&labelColor=0D1117&color=0D1117&label=repos" />
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Shipovmax&style=flat-square&color=1F6FEB&label=views" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Shipovmax&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=8B949E&ring_color=58A6FF&border_radius=8" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shipovmax&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=8&border_radius=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shipovmax&hide_border=true&background=0D1117&border_radius=8&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&currStreakNum=C9D1D9&sideNums=58A6FF&sideLabels=8B949E&dates=6E7681" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shipovmax&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9&area=true&area_color=1F6FEB&hide_border=true&radius=8" width="95%" />
 </p>
 
 <br />
