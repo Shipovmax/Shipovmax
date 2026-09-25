@@ -75,46 +75,9 @@ location:    moscow · open to remote
 
 <br />
 
-### `03` &nbsp;Selected work
 
-<table>
-<tr>
-<td width="50%" valign="top">
 
-**[Yandex&#95;interview](https://github.com/Shipovmax/Yandex_interview)**<br />
-<sub>Real interview problems — bitmask DP, Dijkstra, DSU, monotonic stack, Tarjan's bridges. Python solutions with complexity analysis.</sub><br />
-<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=58A6FF&labelColor=0D1117" />
-
-</td>
-<td width="50%" valign="top">
-
-**[Yandex&#95;backend&#95;course](https://github.com/Shipovmax/Yandex_backend_course)**<br />
-<sub>Backend Developer course — Python fundamentals, pytest, OOP, HTTP, Django. ~120 solutions.</sub><br />
-<img src="https://img.shields.io/badge/Django-0D1117?style=flat-square&logo=django&logoColor=58A6FF&labelColor=0D1117" />
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[AiSD&#95;repo](https://github.com/Shipovmax/AiSD_repo)**<br />
-<sub>Algorithms & data structures coursework at the Financial University.</sub><br />
-<img src="https://img.shields.io/badge/Algorithms-0D1117?style=flat-square&logo=thealgorithms&logoColor=58A6FF&labelColor=0D1117" />
-
-</td>
-<td width="50%" valign="top">
-
-**[the&#95;snake](https://github.com/Shipovmax/the_snake)**<br />
-<sub>Classic Snake in pygame — wrap-around movement, smart apple spawn, OOP design, full pytest suite.</sub><br />
-<img src="https://img.shields.io/badge/pygame-0D1117?style=flat-square&logo=python&logoColor=58A6FF&labelColor=0D1117" />
-
-</td>
-</tr>
-</table>
-
-<br />
-
-### `04` &nbsp;Numbers
+### `03` &nbsp;Numbers
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Shipovmax?style=flat-square&logo=github&logoColor=58A6FF&labelColor=0D1117&color=0D1117&label=followers" />
