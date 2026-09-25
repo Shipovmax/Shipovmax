@@ -33,27 +33,10 @@
 
 ---
 
-## Contribution snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shipovmax/Shipovmax/output/snake.svg" />
-</p>
-
----
-
-## Goals
-
-- Land a backend/Python internship
-- Ship real products, not just university assignments
-- Go deep on concurrency and database internals
-- Go from student developer to confident engineer
-
----
-
 ## Contact
 
 <p align="center">
-  <a href="https://t.me/shipovm"><img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=58A6FF" /></a>
+  <a href="https://t.me/whoshipov"><img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=58A6FF" /></a>
   <a href="mailto:mshipov.dev@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" /></a>
   <a href="https://linkedin.com/in/maksimshipov"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" /></a>
 </p>
