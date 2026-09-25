@@ -12,8 +12,6 @@
   <a href="mailto:mshipov.dev@gmail.com"><img src="https://img.shields.io/badge/email-0D1117?style=flat-square&logo=gmail&logoColor=58A6FF&labelColor=0D1117" /></a>
   &nbsp;
   <a href="https://linkedin.com/in/maksimshipov"><img src="https://img.shields.io/badge/linkedin-0D1117?style=flat-square&logo=linkedin&logoColor=58A6FF&labelColor=0D1117" /></a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Shipovmax&style=flat-square&color=1F6FEB&label=views" />
 </p>
 
 <br />
@@ -26,12 +24,13 @@ Second-year **Software Engineering** student at the Financial University under t
 Russian Federation. I build backends: clean boundaries, predictable concurrency, databases that stay
 fast when the data stops being small.
 
-| | |
-|:--|:--|
-| **Core** | Python — FastAPI, Django, async I/O |
-| **Learning** | Go — goroutines, channels, gRPC services |
-| **Building** | discount & promo-code aggregator on FastAPI + PostgreSQL |
-| **Looking for** | backend / Python internship |
+```yaml
+core:        python — fastapi, django, async i/o
+learning:    go — goroutines, channels, grpc
+building:    discount & promo-code aggregator (fastapi + postgres)
+looking_for: backend / python internship
+location:    moscow · open to remote
+```
 
 <br />
 
@@ -52,6 +51,7 @@ fast when the data stops being small.
 <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=58A6FF&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Django-0D1117?style=flat-square&logo=django&logoColor=58A6FF&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/gRPC-0D1117?style=flat-square&logo=grpc&logoColor=58A6FF&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/pytest-0D1117?style=flat-square&logo=pytest&logoColor=58A6FF&labelColor=0D1117" />
 </td>
 </tr>
 <tr>
@@ -75,15 +75,55 @@ fast when the data stops being small.
 
 <br />
 
-### `03` &nbsp;Activity
+### `03` &nbsp;Selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Yandex&#95;interview](https://github.com/Shipovmax/Yandex_interview)**<br />
+<sub>Real interview problems — bitmask DP, Dijkstra, DSU, monotonic stack, Tarjan's bridges. Python solutions with complexity analysis.</sub><br />
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=58A6FF&labelColor=0D1117" />
+
+</td>
+<td width="50%" valign="top">
+
+**[Yandex&#95;backend&#95;course](https://github.com/Shipovmax/Yandex_backend_course)**<br />
+<sub>Backend Developer course — Python fundamentals, pytest, OOP, HTTP, Django. ~120 solutions.</sub><br />
+<img src="https://img.shields.io/badge/Django-0D1117?style=flat-square&logo=django&logoColor=58A6FF&labelColor=0D1117" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[AiSD&#95;repo](https://github.com/Shipovmax/AiSD_repo)**<br />
+<sub>Algorithms & data structures coursework at the Financial University.</sub><br />
+<img src="https://img.shields.io/badge/Algorithms-0D1117?style=flat-square&logo=thealgorithms&logoColor=58A6FF&labelColor=0D1117" />
+
+</td>
+<td width="50%" valign="top">
+
+**[the&#95;snake](https://github.com/Shipovmax/the_snake)**<br />
+<sub>Classic Snake in pygame — wrap-around movement, smart apple spawn, OOP design, full pytest suite.</sub><br />
+<img src="https://img.shields.io/badge/pygame-0D1117?style=flat-square&logo=python&logoColor=58A6FF&labelColor=0D1117" />
+
+</td>
+</tr>
+</table>
+
+<br />
+
+### `04` &nbsp;Numbers
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shipovmax&show_icons=true&hide_border=true&hide_title=true&bg_color=0D1117&icon_color=1F6FEB&text_color=8B949E&ring_color=58A6FF&border_radius=10&hide=issues" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shipovmax&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=6&border_radius=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shipovmax&bg_color=0D1117&color=8B949E&line=58A6FF&point=1F6FEB&area=true&area_color=1F6FEB&hide_border=true&radius=10&custom_title=commits" width="96%" />
+  <img src="https://img.shields.io/github/followers/Shipovmax?style=flat-square&logo=github&logoColor=58A6FF&labelColor=0D1117&color=0D1117&label=followers" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/Shipovmax?style=flat-square&logo=github&logoColor=58A6FF&labelColor=0D1117&color=0D1117&label=stars" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FShipovmax&query=%24.public_repos&style=flat-square&logo=github&logoColor=58A6FF&labelColor=0D1117&color=0D1117&label=repos" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Shipovmax&style=flat-square&color=1F6FEB&label=views" />
 </p>
 
 <br />
