@@ -33,19 +33,6 @@
 
 ---
 
-## GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shipovmax&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&border_radius=10" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shipovmax&layout=compact&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&border_radius=10" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shipovmax&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&currStreakNum=ffffff&sideNums=58A6FF&sideLabels=c9d1d9&dates=c9d1d9" />
-</p>
-
----
-
 ## Contribution snake
 
 <p align="center">
@@ -73,7 +60,7 @@
 
 ---
 
-<p align="center"><i>Consistency beats motivation.</i></p>
+<p align="center"><i>Good systems, like good habits, compound quietly.</i></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0d1117&height=100&section=footer" width="100%" />
