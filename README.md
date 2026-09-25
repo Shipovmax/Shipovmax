@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shipovmax/Shipovmax/main/assets/header.svg" width="88%" alt="Maxim Shipov — backend developer" />
+  <img src="https://raw.githubusercontent.com/Shipovmax/Shipovmax/main/header.svg" width="88%" alt="" />
 </p>
 
 <p align="center">
@@ -56,24 +56,6 @@ location:    moscow · open to remote
   <img src="https://img.shields.io/badge/Nginx-0D1117?style=flat-square&logo=nginx&logoColor=58A6FF&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=58A6FF&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=58A6FF&labelColor=0D1117" />
-</p>
-
-<br />
-
-<h3 align="center"><code>03</code>&nbsp;&nbsp;Activity</h3>
-
-<p align="center">
-  <img width="72%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shipovmax&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img width="52%" src="https://streak-stats.demolab.com?user=Shipovmax&hide_border=true&background=0D1117&border_radius=8&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&currStreakNum=C9D1D9&sideNums=58A6FF&sideLabels=8B949E&dates=6E7681" />
-</p>
-
-<p align="center">
-  <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shipovmax&theme=github_dark" />
-  &nbsp;
-  <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shipovmax&theme=github_dark" />
 </p>
 
 <br />
