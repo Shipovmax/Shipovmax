@@ -50,7 +50,6 @@ location:    moscow · open to remote
 
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=58A6FF&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=58A6FF&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/SQLAlchemy-0D1117?style=flat-square&logo=sqlalchemy&logoColor=58A6FF&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=58A6FF&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Nginx-0D1117?style=flat-square&logo=nginx&logoColor=58A6FF&labelColor=0D1117" />
