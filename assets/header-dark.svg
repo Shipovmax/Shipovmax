@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" fill="none" role="img" aria-label="Maxim Shipov — backend developer">
+  <title>Maxim Shipov</title>
+  <desc>Backend developer working with Python and Go.</desc>
+  <defs>
+    <clipPath id="card"><rect width="1000" height="220" rx="26"/></clipPath>
+    <clipPath id="panel">
+      <rect x="48" y="30" width="904" height="160" rx="26"/>
+    </clipPath>
+
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="46"/>
+    </filter>
+
+    <filter id="tight" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="40"/>
+    </filter>
+
+    <linearGradient id="frost" x1="0" y1="0" x2="35%" y2="100%">
+      <stop offset="0"    stop-color="#ffffff" stop-opacity="0.16"/>
+      <stop offset="0.45" stop-color="#ffffff" stop-opacity="0.06"/>
+      <stop offset="1"    stop-color="#ffffff" stop-opacity="0.02"/>
+    </linearGradient>
+
+    <linearGradient id="rim" x1="0" y1="0" x2="100%" y2="100%">
+      <stop offset="0"    stop-color="#ffffff" stop-opacity="0.60"/>
+      <stop offset="0.28" stop-color="#ffffff" stop-opacity="0.10"/>
+      <stop offset="0.62" stop-color="#58A6FF" stop-opacity="0.35"/>
+      <stop offset="1"    stop-color="#ffffff" stop-opacity="0.45"/>
+    </linearGradient>
+
+    <linearGradient id="sheen" x1="0" y1="0" x2="100%" y2="30%">
+      <stop offset="0"    stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.42" stop-color="#ffffff" stop-opacity="0.12"/>
+      <stop offset="0.58" stop-color="#ffffff" stop-opacity="0.12"/>
+      <stop offset="1"    stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="topline" x1="0" y1="0" x2="100%" y2="0">
+      <stop offset="0"    stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.3"  stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="0.7"  stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="1"    stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="4" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+    </filter>
+
+    <g id="blobs">
+      <circle cx="210" cy="60" r="130" fill="#1F6FEB">
+      </circle>
+      <circle cx="620" cy="170" r="120" fill="#58A6FF">
+      </circle>
+      <circle cx="850" cy="80" r="105" fill="#6E5BD6">
+      </circle>
+      <circle cx="420" cy="30" r="80" fill="#2B7FD4" opacity="0.8">
+      </circle>
+    </g>
+  </defs>
+
+  <rect width="1000" height="220" rx="26" fill="#0D1117"/>
+
+  <!-- ambient spill outside the panel -->
+  <g clip-path="url(#card)"><use href="#blobs" filter="url(#soft)" opacity="0.16"/></g>
+
+  <!-- what shows through the glass -->
+  <g clip-path="url(#panel)">
+    <use href="#blobs" filter="url(#tight)" opacity="0.34"/>
+    <rect x="48" y="30" width="904" height="160" fill="#0D1117" opacity="0.46"/>
+    <rect x="48" y="30" width="904" height="160" fill="url(#frost)"/>
+    <rect x="48" y="30" width="904" height="160" fill="url(#sheen)"/>
+    <rect x="48" y="30" width="904" height="160" filter="url(#grain)" opacity="0.018"/>
+    <rect x="48" y="31" width="904" height="1.2" fill="url(#topline)"/>
+  </g>
+
+  <!-- glass rim -->
+  <rect x="48.6" y="30.6" width="902.8" height="158.8" rx="25.4"
+        fill="none" stroke="url(#rim)" stroke-width="1.2"/>
+
+  <g font-family="SF Pro Display, -apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif"
+     text-anchor="middle">
+    <text x="500" y="108" font-size="52" font-weight="600" fill="#F0F6FC" letter-spacing="2">MAXIM SHIPOV</text>
+    <text x="500" y="148" font-size="22" font-weight="400" fill="#B9C2CC" letter-spacing="0.8">backend developer · python / go</text>
+  </g>
+</svg>
